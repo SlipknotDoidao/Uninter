@@ -1,0 +1,72 @@
+    body {
+        background-color: rgb(212, 255, 212);
+        padding: 4%;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    h1{ color: white;
+        text-align: center;
+        background-color: green;
+        box-shadow: 5px 5px 5px black;
+        border-radius: 100px;
+        padding: 20px;
+    }
+    h3{
+        color: green;
+        font-size: 30px;
+    }
+
+    p{  font-size: 22px;
+        padding-bottom: 30px;
+        text-align: justify;
+    }
+    
+    ul{
+        padding-left: 50px;
+        padding-right: 50px;
+        line-height: 70px;
+    }
+    table, td, th{
+        border: solid 1px black;
+        padding: 5px;
+        border-collapse: collapse;
+    }
+    th{
+        background-color: rgb(72, 234, 72)
+    }
+    td{
+        text-align: center;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .IMGPaises{
+        width: 200px;
+    }
+    img.Arnold{
+        width: 600px;
+        border-radius: 9%;
+        border: 6px solid green;   
+        margin-bottom: 60px;
+        box-shadow: 5px 5px 5px black;
+    }
+    .URL:hover{
+         background-color: blue;
+         
+    }
+    .URL{
+        font-size: 40px;
+        display: block;
+        text-align: center;
+    }
+    #mensagem{
+        color: rgb(115, 0, 255);
+        text-align: center;
+        font-style: italic;
+    }
+    button{
+        margin: 0 auto;
+        display: block;
+        padding: 20px 30px;
+        font-size: 15px;
+        font-weight: bold;
+    }
